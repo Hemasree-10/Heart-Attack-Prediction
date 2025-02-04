@@ -1,4 +1,4 @@
-<h1> Heart Attack Prediction using Streamlit App </h1>
+# Heart Attack Prediction using Streamlit App </h1>
 
 ![Streamlit](https://img.shields.io/badge/Deployed%20with-Streamlit-FF4B4B?logo=streamlit&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=white)
@@ -33,7 +33,7 @@ The goal of this project is to predict the likelihood of a heart attack based on
 
 
 # Methodology
-This project contains two .py files. The training and deploy files are Heart_Attack_Predictions.py and Heart_Attack_App_deploy.py respectively. The flow of the projects are as follows:
+The flow of the projects are as follows:
 
    ## 1. Importing the libraries and dataset
 
