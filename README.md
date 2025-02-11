@@ -23,9 +23,9 @@ The dataset used in this project is the **Heart Disease Dataset** from the UCI M
 7. **RestingECG**: Resting electrocardiographic results (Normal, ST-T Wave Abnormality, Left Ventricular Hypertrophy).
 8. **MaxHR**: Maximum heart rate achieved.
 9. **ExerciseAngina**: Exercise-induced angina (Yes: 1, No: 0).
-10.**Oldpeak**: ST depression induced by exercise.
-11.**ST_Slope**: Slope of the peak exercise ST segment (Upsloping, Flat, Downsloping).
-12.**HeartDisease**: Target variable (1 = Heart Disease, 0 = No Heart Disease).
+10. **Oldpeak**: ST depression induced by exercise.   
+11. **ST_Slope**: Slope of the peak exercise ST segment (Upsloping, Flat, Downsloping).   
+12. **HeartDisease**: Target variable (1 = Heart Disease, 0 = No Heart Disease).
 
 # Overview
 
@@ -88,7 +88,7 @@ The flow of the projects are as follows:
    ## 7. Build the app using Streamlit
 
    The best model (KNN) is deployed as a web-based app using Streamlit. Users can input patient data and get predictions in real-time.
-   (![heart_pred](https://github.com/user-attachments/assets/42fa2499-9de7-4956-a20f-f35c7983c326)
+   ![heart_pred](https://github.com/user-attachments/assets/42fa2499-9de7-4956-a20f-f35c7983c326)
    
 # Instructions for Running the App Locally
 
